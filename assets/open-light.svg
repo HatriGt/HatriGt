@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace">
+<style>.l{opacity:0;animation:l .5s cubic-bezier(.2,.8,.2,1) forwards}@keyframes l{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}</style>
+<text class="l" x="0" y="34" font-size="26" font-weight="600" fill="#171d1a">Ajeeth Kumar</text>
+<text class="l" style="animation-delay:.08s" x="0" y="72" font-size="15" fill="#424c46">Developer tools for SAP BTP, and the AI agents that use them.</text>
+<text class="l" style="animation-delay:.16s" x="0" y="96" font-size="15" fill="#424c46">CAP · HANA Cloud · Cloud Foundry · MCP · Node.js</text>
+<text class="l" style="animation-delay:.24s" x="0" y="134" font-size="13" fill="#6f7a73"><tspan fill="#1f7a4a">●</tspan> now: MCP servers for SAP HANA · open to collaboration</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="58" viewBox="0 0 880 58" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace">
+<text x="0" y="23" font-size="15" font-weight="600" fill="#171d1a">screenxshot</text>
+<text x="0" y="44" font-size="13" fill="#424c46">Client-side screenshot beautifier and annotator. Nothing leaves the browser.</text>
+<circle cx="788.0" cy="19" r="4" fill="#f1e05a"/>
+<text x="880" y="23" text-anchor="end" font-size="12" fill="#6f7a73">JavaScript</text>
+<text x="880" y="44" text-anchor="end" font-size="13" fill="#1f7a4a">→</text>
+<rect x="0" y="57" width="880" height="1" fill="#d6ddd9"/></svg>
