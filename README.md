@@ -15,11 +15,15 @@
 
 <br>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-stack-dark.svg"><img alt="Stack" src="assets/label-stack-light.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img alt="SAP BTP, Node.js, TypeScript, JavaScript, MCP, Cloud Foundry, PostgreSQL, Redis, Docker, AWS, GitHub Actions, Vercel, Python, FastAPI, Kotlin, Lightroom" src="assets/stack-light.svg" width="100%"></picture>
+
+<br>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-about-dark.svg"><img alt="About" src="assets/label-about-light.svg" width="100%"></picture>
 
 Most of my day is spent on **SAP BTP**: CAP services, HANA Cloud and Cloud Foundry. Lately that has meant **MCP servers** and agent infrastructure, the plumbing that lets an LLM do real work against enterprise systems without being dangerous. Away from the keyboard I photograph things and edit them in Lightroom.
-
-**Tools I reach for:** Node.js, TypeScript, SAP CAP, HANA Cloud, Cloud Foundry, PostgreSQL, Redis, Docker, AWS, GitHub Actions.
 
 <br>
 

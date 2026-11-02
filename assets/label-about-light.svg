@@ -1,2 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="40" viewBox="0 0 880 40">
-<text x="0" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="1.5" fill="#6e7781">ABOUT</text></svg>
+<style>.l{stroke-dasharray:24;stroke-dashoffset:24;animation:d .8s .2s ease-out forwards}@keyframes d{to{stroke-dashoffset:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<path class="l" d="M0 21 H18" stroke="#b5431b" stroke-width="1.5"/>
+<text x="28" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="1.5" fill="#6e7781">ABOUT</text></svg>

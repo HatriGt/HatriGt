@@ -1,9 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="230" viewBox="0 0 880 230">
-<text x="0" y="22" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="1.5" fill="#6e7781">HATRIGT<tspan fill="#b5431b"> ●</tspan> SOFTWARE DEVELOPER</text>
-<text x="-2" y="100" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="60" fill="#1f2328" letter-spacing="-1.2">Ajeeth Kumar</text>
-<text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#3d444d">
- <tspan x="0" y="150">I build developer tools for SAP BTP and the AI agents</tspan>
- <tspan x="0" y="180">that work alongside them<tspan fill="#b5431b">.</tspan></tspan>
-</text>
-<rect x="0" y="222" width="880" height="1" fill="#d8dee4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" overflow="hidden">
+<style>
+.name{fill:transparent;stroke:#1f2328;stroke-width:.8;stroke-dasharray:420;stroke-dashoffset:420;animation:draw 1.6s ease-out forwards,fill .6s 1.2s ease-out forwards}
+@keyframes draw{to{stroke-dashoffset:0}} @keyframes fill{to{fill:#1f2328;stroke-width:0}}
+.up{opacity:0;animation:up .7s ease-out forwards} @keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.ln{fill:none;stroke:#d8dee4;stroke-width:1.2;stroke-dasharray:200;stroke-dashoffset:200;animation:draw 1s ease-out forwards}
+.pop{opacity:0;animation:up .5s ease-out forwards}
+.ring{transform-origin:720px 128px;animation:ring 2.6s ease-out infinite}
+@keyframes ring{from{transform:scale(1);opacity:.55}to{transform:scale(2.6);opacity:0}}
+.dot{animation:blink 2s ease-in-out infinite} @keyframes blink{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<text x="0" y="22" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="1.5" fill="#6e7781" class="up">HATRIGT<tspan class="dot" fill="#b5431b"> ●</tspan> SOFTWARE DEVELOPER</text>
+<text x="-2" y="100" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="60" letter-spacing="-1.2" class="name">Ajeeth Kumar</text>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#3d444d" class="up" style="animation-delay:.9s">
+ <text x="0" y="150">I build developer tools for SAP BTP</text>
+ <text x="0" y="180">and the AI agents that work alongside them<tspan fill="#b5431b">.</tspan></text>
+</g>
+<path d="M720 128 L600 62" class="ln" style="animation-delay:0.6s"/><path d="M720 128 L830 58" class="ln" style="animation-delay:0.75s"/><path d="M720 128 L815 204" class="ln" style="animation-delay:0.8999999999999999s"/><path d="M720 128 L615 200" class="ln" style="animation-delay:1.0499999999999998s"/><circle r="2.6" fill="#b5431b" opacity="0"><animateMotion dur="2.4s" begin="1.4s" repeatCount="indefinite" path="M600 62 L720 128"/><animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="1.4s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#b5431b" opacity="0"><animateMotion dur="2.75s" begin="1.7999999999999998s" repeatCount="indefinite" path="M720 128 L830 58"/><animate attributeName="opacity" values="0;1;1;0" dur="2.75s" begin="1.7999999999999998s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#b5431b" opacity="0"><animateMotion dur="3.0999999999999996s" begin="2.2s" repeatCount="indefinite" path="M815 204 L720 128"/><animate attributeName="opacity" values="0;1;1;0" dur="3.0999999999999996s" begin="2.2s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#b5431b" opacity="0"><animateMotion dur="3.4499999999999997s" begin="2.6s" repeatCount="indefinite" path="M720 128 L615 200"/><animate attributeName="opacity" values="0;1;1;0" dur="3.4499999999999997s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="720" cy="128" r="14" fill="none" stroke="#b5431b" class="ring"/>
+<g class="pop" style="animation-delay:.5s"><circle cx="720" cy="128" r="14" fill="#b5431b"/>
+<text x="720" y="132" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" fill="#f6f8fa">AI</text></g>
+<g class="pop" style="animation-delay:0.9s"><circle cx="600" cy="62" r="5" fill="#f6f8fa" stroke="#6e7781" stroke-width="1.2"/><text x="600" y="50" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6e7781">HANA</text></g><g class="pop" style="animation-delay:1.05s"><circle cx="830" cy="58" r="5" fill="#f6f8fa" stroke="#6e7781" stroke-width="1.2"/><text x="830" y="46" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6e7781">CAP</text></g><g class="pop" style="animation-delay:1.2s"><circle cx="815" cy="204" r="5" fill="#f6f8fa" stroke="#6e7781" stroke-width="1.2"/><text x="815" y="224" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6e7781">Cloud Foundry</text></g><g class="pop" style="animation-delay:1.35s"><circle cx="615" cy="200" r="5" fill="#f6f8fa" stroke="#6e7781" stroke-width="1.2"/><text x="615" y="220" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6e7781">Git</text></g>
+<rect x="0" y="242" width="880" height="1" fill="#d8dee4"/>
 </svg>
