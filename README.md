@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Ajeeth%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Creative%20Tech&descAlignY=58&descSize=16" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Ajeeth%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SAP%20BTP%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Developer%20Tools&descAlignY=58&descSize=16" alt="header"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/HatriGt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+Node.js+backends;Shipping+to+AWS%2C+Vercel+%26+Render;Exploring+ML+with+PyTorch;Designing+with+Adobe+Creative+Suite" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+MCP+servers+for+SAP+%26+beyond;Debugging+CAP+apps+on+BTP+Cloud+Foundry;Sandboxes+%26+proxies+for+AI+coding+agents;Shipping+full-stack+apps+to+the+cloud" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,12 +20,26 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Building **APIs and full-stack web apps** with Node.js, PostgreSQL and Redis
-- ☁️ Deploying on **AWS, Vercel, Render** with CI/CD via GitHub Actions
-- 🧠 Exploring **machine learning** with PyTorch
-- 🎨 Also into **design & visual storytelling** — Photoshop, Lightroom, After Effects
-- 💬 Ask me about **backend architecture, auth (JWT), and API design**
+- 🧩 Building on **SAP BTP**: CAP (Node.js), Cloud Foundry, SAP HANA Cloud
+- 🤖 Building **MCP servers and AI agent tooling** that connect LLMs to real systems
+- ⚙️ Building developer tools: debuggers, proxies and sandboxes that remove friction
+- ☁️ Shipping full-stack apps on **AWS, Vercel, Render** with GitHub Actions CI/CD
+- 🎨 Into **design & photography** on the side: Photoshop, Lightroom, After Effects
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/ajeethkumar95)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does |
+|---|---|
+| [**hana-mcp-server**](https://github.com/HatriGt/hana-mcp-server) | MCP server for SAP HANA & HANA Cloud: AI clients explore schemas and run SQL with guardrails |
+| [**sap-cap-debugger**](https://github.com/HatriGt/sap-cap-debugger) | `npx sap-cap-debugger my-app` attaches VS Code / Chrome DevTools to a live CAP app on BTP Cloud Foundry |
+| [**agent-sandbox**](https://github.com/HatriGt/agent-sandbox) | Sandbox-as-a-service for coding agents: delegate the task, keep the control |
+| [**ccproxy**](https://github.com/HatriGt/ccproxy) | Self-hosted proxy to run Cursor & OpenAI Codex on a Claude Pro/Max subscription |
+| [**flix-launcher**](https://github.com/HatriGt/flix-launcher) | Minimal Android TV launcher: one click from Home to what you're watching |
+| [**screenxshot**](https://github.com/HatriGt/screenxshot) | Privacy-first, client-side screenshot beautifier & annotator |
+| [**AISubs**](https://github.com/HatriGt/AISubs) | Self-hostable Stremio addon that translates subtitles with AI |
 
 ---
 
@@ -34,11 +48,11 @@
 <table>
   <tr>
     <td align="center" width="120"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,html,css,python&theme=dark"/></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark"/></td>
   </tr>
   <tr>
     <td align="center"><b>Backend & Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,sqlite&theme=dark"/></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,redis,sqlite&theme=dark"/></td>
   </tr>
   <tr>
     <td align="center"><b>Cloud & DevOps</b></td>
@@ -55,6 +69,11 @@
 </table>
 
 <p>
+  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP%20CAP-0070F2?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP%20HANA-0070F2?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
