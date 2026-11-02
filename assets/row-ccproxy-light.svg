@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="58" viewBox="0 0 880 58" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace">
-<text x="0" y="23" font-size="15" font-weight="600" fill="#171d1a">ccproxy</text>
-<text x="0" y="44" font-size="13" fill="#424c46">Self-hosted HTTPS gateway that runs Cursor and Codex against a Claude subscription.</text>
+<g transform="translate(0 20) scale(.75)" fill="none" stroke="#6f7a73" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8h13l-3-3M21 16H8l3 3"/></g>
+<text x="32" y="23" font-size="15" font-weight="600" fill="#171d1a">ccproxy</text>
+<text x="32" y="44" font-size="13" fill="#424c46">Self-hosted HTTPS gateway that runs Cursor and Codex against a Claude subscription.</text>
 <circle cx="819.2" cy="19" r="4" fill="#384d54"/>
 <text x="880" y="23" text-anchor="end" font-size="12" fill="#6f7a73">Docker</text>
 <text x="880" y="44" text-anchor="end" font-size="13" fill="#1f7a4a">→</text>

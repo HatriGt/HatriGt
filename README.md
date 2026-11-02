@@ -1,5 +1,7 @@
-<!-- Hallmark · macrostructure: Index-First · theme: Terminal · tone: technical · anchor hue: green 150 · nav: none · footer: Ft2 -->
+<!-- Hallmark · macrostructure: Map/Diagram · theme: Terminal · tone: technical · anchor hue: green 150 · nav: none · footer: Ft2 -->
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/open-dark.svg"><img alt="Ajeeth Kumar. Developer tools for SAP BTP, and the AI agents that use them." src="assets/open-light.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/diagram-dark.svg"><img alt="System diagram: Claude Code, Cursor and Codex reach SAP HANA Cloud, GitHub and Cloud Foundry through hana-mcp-server, agent-sandbox, ccproxy and sap-cap-debugger." src="assets/diagram-light.svg" width="100%"></picture>
 
 <br>
 
@@ -20,8 +22,9 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img alt="daily: SAP CAP, HANA Cloud, Cloud Foundry, Node.js, TypeScript, PostgreSQL, Redis. also: Python, FastAPI, Docker, AWS, GitHub Actions, Kotlin. off-hours: photography, Lightroom." src="assets/stack-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-stack-dark.svg"><img alt="Stack" src="assets/head-stack-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wall-dark.svg"><img alt="SAP BTP, Node.js, TypeScript, JavaScript, Cloud Foundry, Claude/MCP, PostgreSQL, Redis, Docker, AWS, GitHub Actions, Python, Kotlin, GitHub" src="assets/wall-light.svg" width="100%"></picture>
 
 <br>
 
-<sub><a href="https://linkedin.com/in/ajeethkumar95">LinkedIn</a> · <a href="https://x.com/hatrigt">X</a> · <a href="https://instagram.com/hatrigt">Instagram</a></sub>
+<a href="https://linkedin.com/in/ajeethkumar95"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/soc-linkedin-dark.svg"><img alt="LinkedIn" src="assets/soc-linkedin-light.svg" height="24"></picture></a>&nbsp;&nbsp; <a href="https://x.com/hatrigt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/soc-x-dark.svg"><img alt="X" src="assets/soc-x-light.svg" height="24"></picture></a>&nbsp;&nbsp; <a href="https://instagram.com/hatrigt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/soc-instagram-dark.svg"><img alt="Instagram" src="assets/soc-instagram-light.svg" height="24"></picture></a>
